@@ -1,0 +1,111 @@
+php artisan orangt:orange_send_training_data course 
+
+php artisan orangt:orange_send_training_data course --start=2024-07-01 --end=2024-07-31
+php artisan orangt:orange_send_training_data course --start=2024-08-01 --end=2024-08-31
+php artisan orangt:orange_send_training_data course --start=2024-09-01 --end=2024-09-30
+php artisan orangt:orange_send_training_data course --start=2024-10-01 --end=2024-10-31
+php artisan orangt:orange_send_training_data course --start=2024-11-01 --end=2024-11-30
+php artisan orangt:orange_send_training_data course --start=2024-12-01 --end=2024-12-31
+php artisan orangt:orange_send_training_data course --start=2025-01-01 --end=2025-01-31
+php artisan orangt:orange_send_training_data course --start=2025-02-01 --end=2025-02-28
+php artisan orangt:orange_send_training_data course --start=2025-03-01 --end=2025-03-31
+php artisan orangt:orange_send_training_data course --start=2025-04-01 --end=2025-04-30
+php artisan orangt:orange_send_training_data course --start=2025-05-01 --end=2025-05-31
+php artisan orangt:orange_send_training_data course --start=2025-06-01 --end=2025-06-30
+php artisan orangt:orange_send_training_data course --start=2025-07-01 --end=2025-07-31
+
+php artisan orangt:orange_send_training_data event --start=2024-07-01 --end=2024-07-31
+php artisan orangt:orange_send_training_data event --start=2024-08-01 --end=2024-08-31
+php artisan orangt:orange_send_training_data event --start=2024-09-01 --end=2024-09-30
+php artisan orangt:orange_send_training_data event --start=2024-10-01 --end=2024-10-31
+php artisan orangt:orange_send_training_data event --start=2024-11-01 --end=2024-11-30
+php artisan orangt:orange_send_training_data event --start=2024-12-01 --end=2024-12-31
+php artisan orangt:orange_send_training_data event --start=2025-01-01 --end=2025-01-31
+php artisan orangt:orange_send_training_data event --start=2025-02-01 --end=2025-02-28
+php artisan orangt:orange_send_training_data event --start=2025-03-01 --end=2025-03-31
+php artisan orangt:orange_send_training_data event --start=2025-04-01 --end=2025-04-30
+php artisan orangt:orange_send_training_data event --start=2025-05-01 --end=2025-05-31
+php artisan orangt:orange_send_training_data event --start=2025-06-01 --end=2025-06-30
+php artisan orangt:orange_send_training_data event --start=2025-07-01 --end=2025-07-31
+
+php artisan orangt:orange_send_training_data event_course --start=2024-07-01 --end=2024-07-31
+php artisan orangt:orange_send_training_data event_course --start=2024-08-01 --end=2024-08-31
+php artisan orangt:orange_send_training_data event_course --start=2024-09-01 --end=2024-09-30
+php artisan orangt:orange_send_training_data event_course --start=2024-10-01 --end=2024-10-31
+php artisan orangt:orange_send_training_data event_course --start=2024-11-01 --end=2024-11-30
+php artisan orangt:orange_send_training_data event_course --start=2024-12-01 --end=2024-12-31
+php artisan orangt:orange_send_training_data event_course --start=2025-01-01 --end=2025-01-31
+php artisan orangt:orange_send_training_data event_course --start=2025-02-01 --end=2025-02-28
+php artisan orangt:orange_send_training_data event_course --start=2025-03-01 --end=2025-03-31
+php artisan orangt:orange_send_training_data event_course --start=2025-04-01 --end=2025-04-30
+php artisan orangt:orange_send_training_data event_course --start=2025-05-01 --end=2025-05-31
+php artisan orangt:orange_send_training_data event_course --start=2025-06-01 --end=2025-06-30
+php artisan orangt:orange_send_training_data event_course --start=2025-07-01 --end=2025-07-31
+
+php artisan orangt:orange_send_training_data event_course --start=2024-07-02 --end=2024-08-01
+php artisan orangt:orange_send_training_data event_course --start=2025-01-01 --end=2025-07-31
+
+php artisan orangt:orange_send_training_data event_participant --start=2024-07-01 --end=2024-07-31
+php artisan orangt:orange_send_training_data event_participant --start=2024-08-01 --end=2024-08-31
+php artisan orangt:orange_send_training_data event_participant --start=2024-09-01 --end=2024-09-30
+php artisan orangt:orange_send_training_data event_participant --start=2024-10-01 --end=2024-10-31
+php artisan orangt:orange_send_training_data event_participant --start=2024-11-01 --end=2024-11-30
+php artisan orangt:orange_send_training_data event_participant --start=2024-12-01 --end=2024-12-15
+php artisan orangt:orange_send_training_data event_participant --start=2024-12-16 --end=2024-12-20
+php artisan orangt:orange_send_training_data event_participant --start=2024-12-21 --end=2024-12-25
+php artisan orangt:orange_send_training_data event_participant --start=2024-12-26 --end=2024-12-31
+php artisan orangt:orange_send_training_data event_participant --start=2025-01-01 --end=2025-01-31
+php artisan orangt:orange_send_training_data event_participant --start=2025-02-01 --end=2025-02-28
+php artisan orangt:orange_send_training_data event_participant --start=2025-03-01 --end=2025-03-31
+php artisan orangt:orange_send_training_data event_participant --start=2025-04-01 --end=2025-04-30
+php artisan orangt:orange_send_training_data event_participant --start=2025-05-01 --end=2025-05-31
+php artisan orangt:orange_send_training_data event_participant --start=2025-06-01 --end=2025-06-30
+php artisan orangt:orange_send_training_data event_participant --start=2025-07-01 --end=2025-07-31
+
+php artisan orangt:orange_send_training_data event_participant --start=2024-07-02 --end=2024-08-02
+php artisan orangt:orange_send_training_data event_participant --start=2024-07-01 --end=2025-07-31
+
+php artisan orangt:orange_send_training_data event_participant_evaluation_course --start=2024-07-01 --end=2024-07-31
+php artisan orangt:orange_send_training_data event_participant_evaluation_course --start=2024-08-01 --end=2024-08-31
+php artisan orangt:orange_send_training_data event_participant_evaluation_course --start=2024-09-01 --end=2024-09-30
+php artisan orangt:orange_send_training_data event_participant_evaluation_course --start=2024-10-01 --end=2024-10-31
+php artisan orangt:orange_send_training_data event_participant_evaluation_course --start=2024-11-01 --end=2024-11-30
+php artisan orangt:orange_send_training_data event_participant_evaluation_course --start=2024-12-01 --end=2024-12-31
+php artisan orangt:orange_send_training_data event_participant_evaluation_course --start=2025-01-01 --end=2025-01-31
+php artisan orangt:orange_send_training_data event_participant_evaluation_course --start=2025-02-01 --end=2025-02-28
+php artisan orangt:orange_send_training_data event_participant_evaluation_course --start=2025-03-01 --end=2025-03-31
+php artisan orangt:orange_send_training_data event_participant_evaluation_course --start=2025-04-01 --end=2025-04-30
+php artisan orangt:orange_send_training_data event_participant_evaluation_course --start=2025-05-01 --end=2025-05-31
+php artisan orangt:orange_send_training_data event_participant_evaluation_course --start=2025-06-01 --end=2025-06-30
+php artisan orangt:orange_send_training_data event_participant_evaluation_course --start=2025-07-01 --end=2025-07-31
+
+php artisan orangt:orange_send_training_data event_participant_evaluation_course --start=2024-07-01 --end=2025-07-31
+
+
+php artisan orangt:orange_send_training_data event_participant_evaluation --start=2024-07-01 --end=2024-07-31
+php artisan orangt:orange_send_training_data event_participant_evaluation --start=2024-08-01 --end=2024-08-31
+php artisan orangt:orange_send_training_data event_participant_evaluation --start=2024-09-01 --end=2024-09-30
+php artisan orangt:orange_send_training_data event_participant_evaluation --start=2024-10-01 --end=2024-10-31
+php artisan orangt:orange_send_training_data event_participant_evaluation --start=2024-11-01 --end=2024-11-30
+php artisan orangt:orange_send_training_data event_participant_evaluation --start=2024-12-01 --end=2024-12-31
+php artisan orangt:orange_send_training_data event_participant_evaluation --start=2025-01-01 --end=2025-01-31
+php artisan orangt:orange_send_training_data event_participant_evaluation --start=2025-02-01 --end=2025-02-28
+php artisan orangt:orange_send_training_data event_participant_evaluation --start=2025-03-01 --end=2025-03-31
+php artisan orangt:orange_send_training_data event_participant_evaluation --start=2025-04-01 --end=2025-04-30
+php artisan orangt:orange_send_training_data event_participant_evaluation --start=2025-05-01 --end=2025-05-31
+php artisan orangt:orange_send_training_data event_participant_evaluation --start=2025-06-01 --end=2025-06-30
+php artisan orangt:orange_send_training_data event_participant_evaluation --start=2025-07-01 --end=2025-07-31
+
+php artisan orangt:orange_send_training_data all --start=2024-07-01 --end=2024-07-31
+php artisan orangt:orange_send_training_data all --start=2024-08-01 --end=2024-08-31
+php artisan orangt:orange_send_training_data all --start=2024-09-01 --end=2024-09-30
+php artisan orangt:orange_send_training_data all --start=2024-10-01 --end=2024-10-31
+php artisan orangt:orange_send_training_data all --start=2024-11-01 --end=2024-11-30
+php artisan orangt:orange_send_training_data all --start=2024-12-01 --end=2024-12-31
+php artisan orangt:orange_send_training_data all --start=2025-01-01 --end=2025-01-31
+php artisan orangt:orange_send_training_data all --start=2025-02-01 --end=2025-02-28
+php artisan orangt:orange_send_training_data all --start=2025-03-01 --end=2025-03-31
+php artisan orangt:orange_send_training_data all --start=2025-04-01 --end=2025-04-30
+php artisan orangt:orange_send_training_data all --start=2025-05-01 --end=2025-05-31
+php artisan orangt:orange_send_training_data all --start=2025-06-01 --end=2025-06-30
+php artisan orangt:orange_send_training_data all --start=2025-07-01 --end=2025-07-31
