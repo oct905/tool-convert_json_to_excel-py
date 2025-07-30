@@ -1,0 +1,970 @@
+[
+  {
+    "course_id": "COMM-001",
+    "course_title": "Pre Test Communication Skill",
+    "description": "Silakan Kerjakan Quiz sebelum masuk ke materi",
+    "valid_from": "01-01-2000",
+    "valid_to": "01-01-9999",
+    "status": "success"
+  },
+  {
+    "course_id": "COMM-002",
+    "course_title": "Modul Communication Skill",
+    "description": "Communication Skill&nbsp;adalah suatu kegiatan dimana sekelompok karyawan yang bekerjasama dan melakukan pertemuan secara berkala dalam mengupayakan pengendalian mutu (kualitas) dengan cara mengidentifikasikan, menganalisis dan melakukan tindakan untuk menyelesaikan masalah yang dihadapi dalam peker",
+    "valid_from": "01-01-2000",
+    "valid_to": "01-01-9999",
+    "status": "success"
+  },
+  {
+    "course_id": "C3",
+    "course_title": "TEst1",
+    "description": "test 1",
+    "valid_from": "01-01-2000",
+    "valid_to": "01-01-9999",
+    "status": "success"
+  },
+  {
+    "course_id": "ETHIC-24",
+    "course_title": "Materi Ethic & Compliance",
+    "description": "Silakan klik materi di course material sebelah kanan Anda, setelah anda menonton video silakan isi CSI dibawah ini\r\n\r\n&nbsp;",
+    "valid_from": "01-01-2000",
+    "valid_to": "01-01-9999",
+    "status": "success"
+  },
+  {
+    "course_id": "SOP-C04.2.PROC-09",
+    "course_title": "RFP EVENT DIRECT MATERIAL",
+    "description": "\r\n\tTUJUAN\r\n\r\n\r\nProsedur ini menjelaskan terkait pelaksanaan RFP Event Direct Material RM &amp; PM menggunakan pendekatan fase pre market, market event dan post market &nbsp;yang bertujuan sebagai panduan dalam persiapan, pelaksanaan, dan pemilihan pemenang pada sourcing event dengan sistem bidding s",
+    "valid_from": "01-01-2000",
+    "valid_to": "01-01-9999",
+    "status": "success"
+  },
+  {
+    "course_id": "SDDM",
+    "course_title": "Safety Driving & Daily Maintenance",
+    "description": "Course ini di design dan dibuat untuk sarana belajar mandiri bagi driver-driver yang ada di seluruh depo SNS, sebagai alat untuk pemenuhan kompetensi bagi driver-driver.\r\n\r\nMateri utama dalam pelatihan ini mencakup:\r\n\r\n\r\n\tKeamanan Berkendara (Safety Driving) dan\r\n\tPerawatan Harian Armada (Daily Main",
+    "valid_from": "01-01-2000",
+    "valid_to": "01-01-9999",
+    "status": "success"
+  },
+  {
+    "course_id": "EDAC-JC",
+    "course_title": "EDAC saat Join Call",
+    "description": "Silakan klik dan download&nbsp;materi pada&nbsp;course material di pojok&nbsp;kanan atas halaman ini.",
+    "valid_from": "01-01-2000",
+    "valid_to": "01-01-9999",
+    "status": "success"
+  },
+  {
+    "course_id": "MM - 24",
+    "course_title": "Mind Map",
+    "description": "Use Both Sides Of Your Brain With&nbsp;MIND MAP\r\n\r\nPeserta mampu mengoptimalkan penggunaan kedua sisi otak dengan Mind Map untuk meningkatkan proses berpikir kreatif.",
+    "valid_from": "01-01-2000",
+    "valid_to": "01-01-9999",
+    "status": "success"
+  },
+  {
+    "course_id": "DISC - 24",
+    "course_title": "People Personality - DISC",
+    "description": "DISC (Dominance, Influence, Steadiness, dan Compliance), merupakan empat tipe kepribadian yang dimiliki setiap individu. DISC adalah tes kepribadian yang digunakan untuk mengidentifikasi ciri-ciri kepribadian yang dapat diprediksi dalam perilaku manusia.",
+    "valid_from": "01-01-2000",
+    "valid_to": "01-01-9999",
+    "status": "success"
+  },
+  {
+    "course_id": "LTP",
+    "course_title": "Kick Off - Leadership Transformation Program",
+    "description": "LTP Kick Off Program berisikan panduan awal yang perlu dipelajari dan dipahami sebelum masuk ke dalam pembelajaran modul.",
+    "valid_from": "01-01-2000",
+    "valid_to": "01-01-9999",
+    "status": "success"
+  },
+  {
+    "course_id": "LTP-M2",
+    "course_title": "Modul 2 - Leadership Transformation Program",
+    "description": "Modul 2&nbsp;Leadership Transformation Program",
+    "valid_from": "01-01-2000",
+    "valid_to": "01-01-9999",
+    "status": "success"
+  },
+  {
+    "course_id": "LTP-M3",
+    "course_title": "Modul 3 - Leadership Transformation Program",
+    "description": "Modul 3&nbsp;Leadership Transformation Program",
+    "valid_from": "01-01-2000",
+    "valid_to": "01-01-9999",
+    "status": "success"
+  },
+  {
+    "course_id": "Pre",
+    "course_title": "Kerjakan Pre-Test dibawah ini",
+    "description": "Silakan Anda mengerjakan Pre-Test sebelum mempelajari Materi.",
+    "valid_from": "01-01-2000",
+    "valid_to": "01-01-9999",
+    "status": "success"
+  },
+  {
+    "course_id": "Post",
+    "course_title": "Kerjakan Post-Test dibawah ini",
+    "description": "Setelah Anda mempelajari materi sebelumnya silakan mengerjakan&nbsp;Post Test.",
+    "valid_from": "01-01-2000",
+    "valid_to": "01-01-9999",
+    "status": "success"
+  },
+  {
+    "course_id": "Sustainability-1",
+    "course_title": "Video 1 - Overview Sustainability dan ESG",
+    "description": "Silakan klik materi di course material sebelah kanan Anda untuk mempelajari Video 1 Sustainability",
+    "valid_from": "01-01-2000",
+    "valid_to": "01-01-9999",
+    "status": "success"
+  },
+  {
+    "course_id": "LTP-M1",
+    "course_title": "Modul 1 - Leadership Transformation Program",
+    "description": "Modul 1 - Leadership Transformation Program&nbsp;merupakan materi-materi yang diberikan pada pelatihan LTP yang dilaksanakan pada tanggal 26-28 September 2024.",
+    "valid_from": "01-01-2000",
+    "valid_to": "01-01-9999",
+    "status": "success"
+  },
+  {
+    "course_id": "Sustainability-2",
+    "course_title": "Video 2 - Implementasi Sustainability di Garudafood melalui Kerangka ESG",
+    "description": "Silakan klik materi di course material sebelah kanan Anda untuk mempelajari Video 2&nbsp;- Implementasi Sustainability di Garudafood melalui kerangka ESG",
+    "valid_from": "01-01-2000",
+    "valid_to": "01-01-9999",
+    "status": "success"
+  },
+  {
+    "course_id": "Sustainability-3",
+    "course_title": "Video 3 - Peran Individu dalam Mewujudkan Sustainability",
+    "description": "Silakan klik materi di course material sebelah kanan Anda untuk mempelajari Video 3 - Peran Individu dalam Mewujudkan Sustainability",
+    "valid_from": "01-01-2000",
+    "valid_to": "01-01-9999",
+    "status": "success"
+  },
+  {
+    "course_id": "SMKPO",
+    "course_title": "SMKPO",
+    "description": "Sistem Manajemen Keamanan Pangan Olahan atau SMKPO merupakan sistem yang disusun dan dikembangkan untuk menjamin keamanan dan mutu Pangan Olahan melalui pengawasan berbasis risiko secara mandiri di Jalur Distribusi. Maka setiap pelaku usaha pangan olahan, wajib melakukan sertifikasi SMKPO. Course in",
+    "valid_from": "01-01-2000",
+    "valid_to": "01-01-9999",
+    "status": "success"
+  },
+  {
+    "course_id": "LTP-VL",
+    "course_title": "Viewed links - LTP",
+    "description": "Bagian Viewed Link berisi kumpulan tautan video dan kutipan inspiratif yang dirancang untuk memberikan wawasan tambahan bagi peserta Leadership Transformation Program. Materi ini bertujuan untuk memperkaya pemahaman peserta tentang konsep kepemimpinan yang relevan, memperkuat keterampilan manajerial",
+    "valid_from": "01-01-2000",
+    "valid_to": "01-01-9999",
+    "status": "success"
+  },
+  {
+    "course_id": "WOW DEPO",
+    "course_title": "WOW Depo : Receiving & Unloading",
+    "description": "Selamat datang di pembelajaran terkait dengan Ways of Working (WOW) Depo. Melalui modul ini, anda akan belajar dan memahami proses kerja proses Pergudangan (Warehouse) mulai dari hulu hingga hilir. Semangat dan selamat belajar!&nbsp;",
+    "valid_from": "01-01-2000",
+    "valid_to": "01-01-9999",
+    "status": "success"
+  },
+  {
+    "course_id": "WOW DEPO 1",
+    "course_title": "WOW Depo : Put Away & Storaging",
+    "description": "Selamat datang di pembelajaran terkait dengan Ways of Working (WOW) Depo. Melalui modul ini, anda akan belajar dan memahami proses kerja proses Pergudangan (Warehouse) mulai dari hulu hingga hilir. Semangat dan selamat belajar!&nbsp;",
+    "valid_from": "01-01-2000",
+    "valid_to": "01-01-9999",
+    "status": "success"
+  },
+  {
+    "course_id": "WOW DEPO 2",
+    "course_title": "WOW Depo : Picking & Loading",
+    "description": "Selamat datang di pembelajaran terkait dengan Ways of Working (WOW) Depo. Melalui modul ini, anda akan belajar dan memahami proses kerja proses Pergudangan (Warehouse) mulai dari hulu hingga hilir. Semangat dan selamat belajar!&nbsp;",
+    "valid_from": "01-01-2000",
+    "valid_to": "01-01-9999",
+    "status": "success"
+  },
+  {
+    "course_id": "WOW DEPO 3",
+    "course_title": "WOW Depo : Pemusnahan Bad Stock (BS)",
+    "description": "Selamat datang di pembelajaran terkait dengan Ways of Working (WOW) Depo. Melalui modul ini, anda akan belajar dan memahami proses kerja proses Pergudangan (Warehouse) mulai dari hulu hingga hilir. Semangat dan selamat belajar!&nbsp;",
+    "valid_from": "01-01-2000",
+    "valid_to": "01-01-9999",
+    "status": "success"
+  },
+  {
+    "course_id": "Post-Test WOW Depo",
+    "course_title": "Post-Test WOW Depo",
+    "description": "Setelah mempelajari modul terkait dengan Ways of Working (WOW) Warehouse Depo, waktunya ada mencoba mengerjakan kembali soal-soal guna mengukur pemahaman terkait dengan WOW Depo. Berikan yang terbaik dan selamat mengerjakan!",
+    "valid_from": "01-01-2000",
+    "valid_to": "01-01-9999",
+    "status": "success"
+  },
+  {
+    "course_id": "Pre-Test WOW Depo",
+    "course_title": "Pre-Test WOW Depo",
+    "description": "Tunggu dulu!\r\n\r\nSebelum mempelajari modul terkait dengan Ways of Working (WOW) Warehouse Depo, yuk kerjakan dulu soal-soal ini untuk mengetahui pemahaman anda terkait dengan WOW Depo. Selamat mengerjakan!",
+    "valid_from": "01-01-2000",
+    "valid_to": "01-01-9999",
+    "status": "success"
+  },
+  {
+    "course_id": "SJPH-24",
+    "course_title": "Sistem Jaminan Produk Halal",
+    "description": "Sistem manajemen yang dijalankan oleh perusahaan pemegang sertifikat halal untuk menjaga kesinambungan proses produksi halal sesuai dengan ketentuan LPPOM MUI",
+    "valid_from": "01-01-2000",
+    "valid_to": "01-01-9999",
+    "status": "success"
+  },
+  {
+    "course_id": "Pre Tes SJPH",
+    "course_title": "PRE TES Sistem Jaminan Produk Halal",
+    "description": "Pre Tes",
+    "valid_from": "01-01-2000",
+    "valid_to": "01-01-9999",
+    "status": "success"
+  },
+  {
+    "course_id": "Pos Tes SJPH",
+    "course_title": "POS TES Sistem Jaminan Produk Halal",
+    "description": "pos tes",
+    "valid_from": "01-01-2000",
+    "valid_to": "01-01-9999",
+    "status": "success"
+  },
+  {
+    "course_id": "35",
+    "course_title": "CT Logistic Development - Assignment 1",
+    "description": "CT Logistic Training in 1st Assignment Phase",
+    "valid_from": "01-01-2000",
+    "valid_to": "01-01-9999",
+    "status": "success"
+  },
+  {
+    "course_id": "HC_Leaders",
+    "course_title": "HC Bootcamp Module 2",
+    "description": "HC Bootcamp Module 2",
+    "valid_from": "01-01-2000",
+    "valid_to": "01-01-9999",
+    "status": "success"
+  },
+  {
+    "course_id": "Packing",
+    "course_title": "Virtual Module Packaging PSPD",
+    "description": "Halo rekan-rekan Operator Packaging PSPD!\r\n\r\nKami ingin menyampaikan informasi yakni, Modul Pembelajaran berbasis virtual telah selesai kami susun, adapun modul ini berfokus pada proses packaging pada mesin eurosicma.&nbsp;\r\n\r\nModul ini dirancang dengan memperhatikan data defect dari tim QA, khususn",
+    "valid_from": "01-01-2000",
+    "valid_to": "01-01-9999",
+    "status": "success"
+  },
+  {
+    "course_id": "English",
+    "course_title": "Every Day English : The Language of Routine\u00a0and\u00a0Habit",
+    "description": "Welcome to English Training at Garudafood \u2728\u2728\r\n\r\nPada English Training ini, bapak \/ ibu akan belajar tentang Simple Present Tense untuk percakapan sehari - hari dengan cara praktek berbicara tentang kebiasaan, kegiatan sehari - hari, dan kegiatan yang sering&nbsp;dilakukan.&nbsp;\u2728",
+    "valid_from": "01-01-2000",
+    "valid_to": "01-01-9999",
+    "status": "success"
+  },
+  {
+    "course_id": "CULTURE-QUIZ",
+    "course_title": "Culture Quiz",
+    "description": "&quot;Sebelum mengikuti&nbsp;Quiz culture periode Desember ini dengan menonton video Garudafood Basic Mentality 1 hingga 5 pada halaman ini. Video ini menjelaskan mengenai bentuk implementasi perilaku kerja karyawan dalam setiap mentalitas dasarnya. Video bisa dilihat di pojok kanan atas Anda&quot;",
+    "valid_from": "01-01-2000",
+    "valid_to": "01-01-9999",
+    "status": "success"
+  },
+  {
+    "course_id": "CSI",
+    "course_title": "CSI - TRAINING",
+    "description": "Customer Satisfaction Index (CSI) terhadap training yang di ikuti.",
+    "valid_from": "01-01-2000",
+    "valid_to": "01-01-9999",
+    "status": "success"
+  },
+  {
+    "course_id": "Halal",
+    "course_title": "Sistem Jaminan Halal",
+    "description": "Pembelajaran terkait Sistem Jaminan Halal&nbsp;memberikan manfaat signifikan, seperti meningkatkan pemahaman tentang standar halal dalam penyimpanan, distribusi, dan transportasi barang. Dengan pelatihan ini, tim logistik dapat memastikan kepatuhan terhadap regulasi halal, mengurangi risiko kontamin",
+    "valid_from": "01-01-2000",
+    "valid_to": "01-01-9999",
+    "status": "success"
+  },
+  {
+    "course_id": "PICOS-01",
+    "course_title": "Ritel Warung Belanja : Salesman Arjuna",
+    "description": "Ritel Warung Belanja : Salesman Arjuna",
+    "valid_from": "01-01-2000",
+    "valid_to": "01-01-9999",
+    "status": "success"
+  },
+  {
+    "course_id": "PICOS-02",
+    "course_title": "Ritel Warung Belanja : Salesman Bima",
+    "description": "Ritel Warung belanja : Salesman Bima",
+    "valid_from": "01-01-2000",
+    "valid_to": "01-01-9999",
+    "status": "success"
+  },
+  {
+    "course_id": "PICOS-03",
+    "course_title": "Grosir Mix dan Snack : Salesman Arjuna",
+    "description": "Grosir Mix dan Snack : Salesman Arjuna",
+    "valid_from": "01-01-2000",
+    "valid_to": "01-01-9999",
+    "status": "success"
+  },
+  {
+    "course_id": "PICOS-04",
+    "course_title": "Grosir Mix dan Snack : Salesman Bima",
+    "description": "Grosir Mix dan Snack : Salesman Bima",
+    "valid_from": "01-01-2000",
+    "valid_to": "01-01-9999",
+    "status": "success"
+  },
+  {
+    "course_id": "PICOS-05",
+    "course_title": "School",
+    "description": "school",
+    "valid_from": "01-01-2000",
+    "valid_to": "01-01-9999",
+    "status": "success"
+  },
+  {
+    "course_id": "ETHIC-23",
+    "course_title": "Ethic & Compliance 2023",
+    "description": "Ethic &amp; Compliance 2023",
+    "valid_from": "01-01-2000",
+    "valid_to": "01-01-9999",
+    "status": "success"
+  },
+  {
+    "course_id": "D2-CT2025",
+    "course_title": "Training CT 2025 Day 2 (4 Februari 2025)",
+    "description": "Dalam Course ini terdapat materi dan form pengumpulan tugas yang diberikan tiap harinya.",
+    "valid_from": "01-01-2000",
+    "valid_to": "01-01-9999",
+    "status": "success"
+  },
+  {
+    "course_id": "D1-CT2025",
+    "course_title": "Training CT 2025 Day 1 (3 Februari 2025)",
+    "description": "Dalam Course ini terdapat materi dan form pengumpulan tugas yang diberikan tiap Harinya.",
+    "valid_from": "01-01-2000",
+    "valid_to": "01-01-9999",
+    "status": "success"
+  },
+  {
+    "course_id": "D3-CT2025",
+    "course_title": "Training CT 2025 Day 3  (5 Februari 2025)",
+    "description": "Dalam Course ini terdapat materi dan form pengumpulan tugas yang diberikan tiap harinya.",
+    "valid_from": "01-01-2000",
+    "valid_to": "01-01-9999",
+    "status": "success"
+  },
+  {
+    "course_id": "D4-CT2025",
+    "course_title": "Training CT 2025 Day 4 (6 Februari 2025)",
+    "description": "Dalam Course ini terdapat materi dan form pengumpulan tugas yang diberikan tiap harinya.",
+    "valid_from": "01-01-2000",
+    "valid_to": "01-01-9999",
+    "status": "success"
+  },
+  {
+    "course_id": "D5-CT2025",
+    "course_title": "Training CT 2025 Day 5 (7 Februari 2025)",
+    "description": "Dalam Course ini terdapat materi dan form pengumpulan tugas yang diberikan tiap harinya.",
+    "valid_from": "01-01-2000",
+    "valid_to": "01-01-9999",
+    "status": "success"
+  },
+  {
+    "course_id": "D7-CT2025",
+    "course_title": "Training CT 2025 Day 7-8   (10-11 Februari 2025)",
+    "description": "Dalam Course ini terdapat materi dan form pengumpulan tugas yang diberikan tiap harinya.",
+    "valid_from": "01-01-2000",
+    "valid_to": "01-01-9999",
+    "status": "success"
+  },
+  {
+    "course_id": "D9-CT2025",
+    "course_title": "Training CT 2025 Day 9  (12 Februari 2025)",
+    "description": "Dalam Course ini terdapat materi dan form pengumpulan tugas yang diberikan tiap harinya.",
+    "valid_from": "01-01-2000",
+    "valid_to": "01-01-9999",
+    "status": "success"
+  },
+  {
+    "course_id": "D10-CT2025",
+    "course_title": "Training CT 2025 Day 10  (13 Februari 2025)",
+    "description": "Dalam Course ini terdapat materi dan form pengumpulan tugas yang diberikan tiap harinya.",
+    "valid_from": "01-01-2000",
+    "valid_to": "01-01-9999",
+    "status": "success"
+  },
+  {
+    "course_id": "[Logistik] HALAL",
+    "course_title": "[Logistik] HALAL",
+    "description": "Pembelajaran terkait sertifikasi HALAL untuk tim logistik memberikan manfaat signifikan, seperti meningkatkan pemahaman tentang standar halal dalam penyimpanan, distribusi, dan transportasi barang. Dengan pelatihan ini, tim logistik dapat memastikan kepatuhan terhadap regulasi halal, mengurangi risi",
+    "valid_from": "01-01-2000",
+    "valid_to": "01-01-9999",
+    "status": "success"
+  },
+  {
+    "course_id": "POT-SMKPO",
+    "course_title": "Post Test - SMKPO",
+    "description": "Setelah menonton penjelasan tersebut, mari menjawab soal-soal berikut!",
+    "valid_from": "01-01-2000",
+    "valid_to": "01-01-9999",
+    "status": "success"
+  },
+  {
+    "course_id": "POT-HALAL",
+    "course_title": "Post Test - HALAL",
+    "description": "Setelah mendengar penjelasan tersebut, yuk kita coba menjawab pertanyaan-pertanyaan berikut!",
+    "valid_from": "01-01-2000",
+    "valid_to": "01-01-9999",
+    "status": "success"
+  },
+  {
+    "course_id": "D6-CT2025",
+    "course_title": "Training CT 2025 Day 6 (8 Februari 2025)",
+    "description": "Dalam Course ini terdapat materi dan form pengumpulan tugas yang diberikan tiap harinya.",
+    "valid_from": "01-01-2000",
+    "valid_to": "01-01-9999",
+    "status": "success"
+  },
+  {
+    "course_id": "PRE-SMKPO",
+    "course_title": "Pre - Test SMKPO",
+    "description": "Pre-test",
+    "valid_from": "01-01-2000",
+    "valid_to": "01-01-9999",
+    "status": "success"
+  },
+  {
+    "course_id": "PRE-HALAL",
+    "course_title": "Pre - Test HALAL",
+    "description": "Pre test",
+    "valid_from": "01-01-2000",
+    "valid_to": "01-01-9999",
+    "status": "success"
+  },
+  {
+    "course_id": "Next Gen1",
+    "course_title": "Modul 1 LTP Next Gen Leader",
+    "description": "Modul 1",
+    "valid_from": "01-01-2000",
+    "valid_to": "01-01-9999",
+    "status": "success"
+  },
+  {
+    "course_id": "001",
+    "course_title": "001",
+    "description": "Cadangan untuk dipakai",
+    "valid_from": "01-01-2000",
+    "valid_to": "01-01-9999",
+    "status": "success"
+  },
+  {
+    "course_id": "5R-25",
+    "course_title": "5R",
+    "description": "5R adalah metode untuk mengatur dan mengelola tempat kerja agar menjadi lebih baik secara berkelanjutan. \r\n\r\n5R terdiri dari: Ringkas, Rapi, Resik, Rawat dan Rajin. \r\n\r\nDengan menerapkan 5R sebagai budaya kerja, diharapkan dapat membuat pekerjaan teman-teman menjadi lebih cepat, lebih baik, lebih mu",
+    "valid_from": "01-01-2000",
+    "valid_to": "01-01-9999",
+    "status": "success"
+  },
+  {
+    "course_id": "Pre-Test 5R",
+    "course_title": "Pre-Test 5R",
+    "description": "Kerjakan Pre-test dengan klik kotak &quot;Detail Course&quot; ini..",
+    "valid_from": "01-01-2000",
+    "valid_to": "01-01-9999",
+    "status": "success"
+  },
+  {
+    "course_id": "Post Test 5R",
+    "course_title": "Post Test 5R",
+    "description": "Kerjakan Post-test disini ya...",
+    "valid_from": "01-01-2000",
+    "valid_to": "01-01-9999",
+    "status": "success"
+  },
+  {
+    "course_id": "Next Gen",
+    "course_title": "Kick Off LTP Next Gen",
+    "description": "LTP Next Gen",
+    "valid_from": "01-01-2000",
+    "valid_to": "01-01-9999",
+    "status": "success"
+  },
+  {
+    "course_id": "HIRADC",
+    "course_title": "Training HIRADC",
+    "description": "Training ini digunakan untuk ....&nbsp;\r\n\r\nsebagai...&nbsp;\r\n\r\ndan terimakasih&nbsp;",
+    "valid_from": "01-01-2000",
+    "valid_to": "01-01-9999",
+    "status": "success"
+  },
+  {
+    "course_id": "Frame work1",
+    "course_title": "Panduang Frame Work LEarning",
+    "description": "Guyssss",
+    "valid_from": "01-01-2000",
+    "valid_to": "01-01-9999",
+    "status": "success"
+  },
+  {
+    "course_id": "BK3L",
+    "course_title": "Training Awareness",
+    "description": "- Keselamatan Berawal Dari Anda-\r\n\r\n&nbsp;\r\n\r\nTraining Basic Safety akan mempelajari dasar-dasar K3 sebagai panduan oeprasional di lapangan\r\n\r\nSilahkan diikuti dan jadilah agent of change K3 di BU Anda",
+    "valid_from": "01-01-2000",
+    "valid_to": "01-01-9999",
+    "status": "success"
+  },
+  {
+    "course_id": "GMP01",
+    "course_title": "Good Manufacuring Practices",
+    "description": "Silakan klik dan download material training berikut",
+    "valid_from": "01-01-2000",
+    "valid_to": "01-01-9999",
+    "status": "success"
+  },
+  {
+    "course_id": "01",
+    "course_title": "Food safety",
+    "description": "Food safety product sangat penting untuk keamanan pangan",
+    "valid_from": "01-01-2000",
+    "valid_to": "01-01-9999",
+    "status": "success"
+  },
+  {
+    "course_id": "HACCP - 01",
+    "course_title": "Hazard Critical Control Point - 01",
+    "description": "Silahkan di simak materi training HACCP berikut ya teman-teman&nbsp;",
+    "valid_from": "01-01-2000",
+    "valid_to": "01-01-9999",
+    "status": "success"
+  },
+  {
+    "course_id": "SHE-01",
+    "course_title": "Training Basic K3L",
+    "description": "- Keselamatan Berawal Dari Anda-\r\n\r\nTraining Basic K3L&nbsp;akan mempelajari dasar-dasar K3 sebagai panduan operasional di lapangan\r\n\r\nSilahkan diikuti dan jadilah agent of change K3L di BU Anda masing-masing\r\n\r\nSelamat mengikuti training.\r\n\r\nSalam Safety,\r\n\r\nSHEMS\r\n&nbsp;",
+    "valid_from": "01-01-2000",
+    "valid_to": "01-01-9999",
+    "status": "success"
+  },
+  {
+    "course_id": "RDM25",
+    "course_title": "Refreshment Daily Maintenance - BALOK",
+    "description": "Simak video ini sebagai penyegaran pengetahuan dan panduan untuk melakukan Daily Maintenance",
+    "valid_from": "01-01-2000",
+    "valid_to": "01-01-9999",
+    "status": "success"
+  },
+  {
+    "course_id": "PreTestRDM25",
+    "course_title": "Pre Test Refreshment Daily Maintenance",
+    "description": "Kerjakan Pre-test dibawah ini",
+    "valid_from": "01-01-2000",
+    "valid_to": "01-01-9999",
+    "status": "success"
+  },
+  {
+    "course_id": "SHE-02",
+    "course_title": "Training HIRADC (Hazard Identification, Risk Assessment, and Determining Control)",
+    "description": "Halo Pribadi Unggul...",
+    "valid_from": "01-01-2000",
+    "valid_to": "01-01-9999",
+    "status": "success"
+  },
+  {
+    "course_id": "LTP-M4",
+    "course_title": "Modul 4 - Leadership Transformation Program",
+    "description": "Modul 4 - Leadership Transformation Program",
+    "valid_from": "01-01-2000",
+    "valid_to": "01-01-9999",
+    "status": "success"
+  },
+  {
+    "course_id": "BBH-24",
+    "course_title": "Basic Branch Head Capability",
+    "description": "Materi Basic Branch Head Capability",
+    "valid_from": "01-01-2000",
+    "valid_to": "01-01-9999",
+    "status": "success"
+  },
+  {
+    "course_id": "SLCT25",
+    "course_title": "Situational Leadership",
+    "description": "Silakan download materi training ini.",
+    "valid_from": "01-01-2000",
+    "valid_to": "01-01-9999",
+    "status": "success"
+  },
+  {
+    "course_id": "PreSLCT25",
+    "course_title": "Pre-Test Situational Leadership",
+    "description": "Kerjakan pre-test ini sebelum mulai pelatihan",
+    "valid_from": "01-01-2000",
+    "valid_to": "01-01-9999",
+    "status": "success"
+  },
+  {
+    "course_id": "PostSLCT25",
+    "course_title": "Post-Test Situational Leadership",
+    "description": "Kerjakan post test ini",
+    "valid_from": "01-01-2000",
+    "valid_to": "01-01-9999",
+    "status": "success"
+  },
+  {
+    "course_id": "TRNG-ABBOTT",
+    "course_title": "Abbott Handling Process For Logistic",
+    "description": "Modul ini diperuntukan&nbsp;tim warehouse logistic di gudang distribusi (outbound) dalam rangka mendukung transisi dan penanganan produk dari principal baru, Abbott. Materi mencakup pemahaman dasar tentang karakteristik produk Abbott, standar penanganan dan penyimpanan, prosedur pengemasan hingga pe",
+    "valid_from": "01-01-2000",
+    "valid_to": "01-01-9999",
+    "status": "success"
+  },
+  {
+    "course_id": "Next Gen2",
+    "course_title": "Modul 2 LTP Next Gen Leader",
+    "description": "Modul 2",
+    "valid_from": "01-01-2000",
+    "valid_to": "01-01-9999",
+    "status": "success"
+  },
+  {
+    "course_id": "WOWDC1",
+    "course_title": "WOW DC: Receiving Unloading",
+    "description": "Modul-1 WOW DC: Receiving Unloading",
+    "valid_from": "01-01-2000",
+    "valid_to": "01-01-9999",
+    "status": "success"
+  },
+  {
+    "course_id": "WOWDC2",
+    "course_title": "WOW DC: Penyimpanan & Penempatan",
+    "description": "Modul-2&nbsp;WOW DC:&nbsp;Penyimpanan &amp; Penempatan",
+    "valid_from": "01-01-2000",
+    "valid_to": "01-01-9999",
+    "status": "success"
+  },
+  {
+    "course_id": "WOWDC4",
+    "course_title": "WOW DC: Penanganan Produk Rusak & Pemusnahan",
+    "description": "Modul-4&nbsp;WOW DC:&nbsp;Penanganan Produk Rusak &amp; Pemusnahan",
+    "valid_from": "01-01-2000",
+    "valid_to": "01-01-9999",
+    "status": "success"
+  },
+  {
+    "course_id": "WOWDC3",
+    "course_title": "WOW DC: Picking & Loading",
+    "description": "Modul-3&nbsp;WOW DC:&nbsp;Picking &amp; Loading",
+    "valid_from": "01-01-2000",
+    "valid_to": "01-01-9999",
+    "status": "success"
+  },
+  {
+    "course_id": "BLCT1",
+    "course_title": "Logistic Cost",
+    "description": "Materi dapat didownlaod disini",
+    "valid_from": "01-01-2000",
+    "valid_to": "01-01-9999",
+    "status": "success"
+  },
+  {
+    "course_id": "PreBLCT1",
+    "course_title": "Pre Test Logistic Cost",
+    "description": "Kerjakan Pre-Test sebelum kelas pelatihan dimulai",
+    "valid_from": "01-01-2000",
+    "valid_to": "01-01-9999",
+    "status": "success"
+  },
+  {
+    "course_id": "PostBLCT1",
+    "course_title": "Post Test Logistic Cost",
+    "description": "Kerjakan Post test disini",
+    "valid_from": "01-01-2000",
+    "valid_to": "01-01-9999",
+    "status": "success"
+  },
+  {
+    "course_id": "RP25",
+    "course_title": "Route Planner Capability Development",
+    "description": "Silakan kerjakan&nbsp;Download dan Pelajari Materi&nbsp;\r\n\r\n&nbsp;",
+    "valid_from": "01-01-2000",
+    "valid_to": "01-01-9999",
+    "status": "success"
+  },
+  {
+    "course_id": "PreRP25",
+    "course_title": "Pre Test Route Planner Capability Development",
+    "description": "Pre Test Route Planner Capability Development",
+    "valid_from": "01-01-2000",
+    "valid_to": "01-01-9999",
+    "status": "success"
+  },
+  {
+    "course_id": "PostRP25",
+    "course_title": "Post Test Route Planner Capability Development",
+    "description": "Post Test Route Planner Capability Development",
+    "valid_from": "01-01-2000",
+    "valid_to": "01-01-9999",
+    "status": "success"
+  },
+  {
+    "course_id": "HIRA-DC",
+    "course_title": "Training Hazard Identification, Risk Assessment, and Determining Control (HIRADC)",
+    "description": "Dear Pribadi Unggul",
+    "valid_from": "01-01-2000",
+    "valid_to": "01-01-9999",
+    "status": "success"
+  },
+  {
+    "course_id": "PreTrans1CT",
+    "course_title": "Pre Test Transportation - 1",
+    "description": "Kerjakan Pre Test",
+    "valid_from": "01-01-2000",
+    "valid_to": "01-01-9999",
+    "status": "success"
+  },
+  {
+    "course_id": "PostTrans1CT",
+    "course_title": "Post Test Transportation - 1",
+    "description": "Kerjakan Post Test ini",
+    "valid_from": "01-01-2000",
+    "valid_to": "01-01-9999",
+    "status": "success"
+  },
+  {
+    "course_id": "Trans1CT",
+    "course_title": "CT SCM: Transportation-1",
+    "description": "Download dan pelajari materi disini\r\n\r\n&nbsp;",
+    "valid_from": "01-01-2000",
+    "valid_to": "01-01-9999",
+    "status": "success"
+  },
+  {
+    "course_id": "TTT-APSH-RPSH",
+    "course_title": "Materi Training SBPE",
+    "description": "Silakan Bapak\/Ibu download materi disini",
+    "valid_from": "01-01-2000",
+    "valid_to": "01-01-9999",
+    "status": "success"
+  },
+  {
+    "course_id": "LTP-M5",
+    "course_title": "Modul 5 - Leadership Transformation Program",
+    "description": "Modul 5&nbsp;- Leadership Transformation Program",
+    "valid_from": "01-01-2000",
+    "valid_to": "01-01-9999",
+    "status": "success"
+  },
+  {
+    "course_id": "PreRLHBoF25",
+    "course_title": "Pre Test RLH BoF Training 2025",
+    "description": "Kerjakan Pre-test sebelum training",
+    "valid_from": "01-01-2000",
+    "valid_to": "01-01-9999",
+    "status": "success"
+  },
+  {
+    "course_id": "RLHBOF25",
+    "course_title": "RLH BoF Training 2025",
+    "description": "Training RLH BoF",
+    "valid_from": "01-01-2000",
+    "valid_to": "01-01-9999",
+    "status": "success"
+  },
+  {
+    "course_id": "LTP-M5 Study Case Re",
+    "course_title": "LTP-M5 Study Case Result",
+    "description": "LTP-M5 Study Case Result",
+    "valid_from": "01-01-2000",
+    "valid_to": "01-01-9999",
+    "status": "success"
+  },
+  {
+    "course_id": "Next Gen3",
+    "course_title": "Modul 3 LTP Next Gen",
+    "description": "Modul 3",
+    "valid_from": "01-01-2000",
+    "valid_to": "01-01-9999",
+    "status": "success"
+  },
+  {
+    "course_id": "LTP NEXT GEN-M3 Stud",
+    "course_title": "LTP NEXT GEN-M3 Study Case Result",
+    "description": "LTP NEXT GEN-M3 Study Case Result",
+    "valid_from": "01-01-2000",
+    "valid_to": "01-01-9999",
+    "status": "success"
+  },
+  {
+    "course_id": "CTS25",
+    "course_title": "CT Services Insertion",
+    "description": "Training insertion CT Services 2025",
+    "valid_from": "01-01-2000",
+    "valid_to": "01-01-9999",
+    "status": "success"
+  },
+  {
+    "course_id": "PreCTS25",
+    "course_title": "Pre Test CT Services Insertion",
+    "description": "Kerjakan pre-test berikut ini...",
+    "valid_from": "01-01-2000",
+    "valid_to": "01-01-9999",
+    "status": "success"
+  },
+  {
+    "course_id": "SHE-04",
+    "course_title": "Defensive Driving",
+    "description": "Hai Pribadi Unggul!\r\n\r\n&nbsp;\r\n\r\nDefensive driving adalah&nbsp;teknik berkendara yang menekankan pada pencegahan kecelakaan dengan cara mengantisipasi potensi bahaya sebelum terjadi, bukan hanya bereaksi terhadap situasi yang ada.&nbsp;Ini berarti selalu waspada, memperhatikan lingkungan sekitar, da",
+    "valid_from": "01-01-2000",
+    "valid_to": "01-01-9999",
+    "status": "success"
+  },
+  {
+    "course_id": "SBPE-2",
+    "course_title": "SBPE - Onboarding",
+    "description": "Silakan download materi disini",
+    "valid_from": "01-01-2000",
+    "valid_to": "01-01-9999",
+    "status": "success"
+  },
+  {
+    "course_id": "PICOS-SAM",
+    "course_title": "PICOS SAM",
+    "description": "Silakan tonton video penggunaan SAM PICOS",
+    "valid_from": "01-01-2000",
+    "valid_to": "01-01-9999",
+    "status": "success"
+  },
+  {
+    "course_id": "Next Gen4",
+    "course_title": "Modul 4 LTP Next Gen",
+    "description": "Modul 4",
+    "valid_from": "01-01-2000",
+    "valid_to": "01-01-9999",
+    "status": "success"
+  },
+  {
+    "course_id": "Induction",
+    "course_title": "Materi Employee Induction",
+    "description": "Silakan download materi disini",
+    "valid_from": "01-01-2000",
+    "valid_to": "01-01-9999",
+    "status": "success"
+  },
+  {
+    "course_id": "TTT-SAC",
+    "course_title": "Materi Training SAC 2025",
+    "description": "Silakan Bapak\/Ibu download materi disini",
+    "valid_from": "01-01-2000",
+    "valid_to": "01-01-9999",
+    "status": "success"
+  },
+  {
+    "course_id": "TMCT25",
+    "course_title": "Pre-Test Time Management",
+    "description": "Kerjakan pre-test disini",
+    "valid_from": "01-01-2000",
+    "valid_to": "01-01-9999",
+    "status": "success"
+  },
+  {
+    "course_id": "TMCT251",
+    "course_title": "Time Management",
+    "description": "Time Management",
+    "valid_from": "01-01-2000",
+    "valid_to": "01-01-9999",
+    "status": "success"
+  },
+  {
+    "course_id": "BLCT2",
+    "course_title": "BLC Thematic Training 2: Stock Accuracy & Control",
+    "description": "Pelajari materi dan kerjakan post test disini",
+    "valid_from": "01-01-2000",
+    "valid_to": "01-01-9999",
+    "status": "success"
+  },
+  {
+    "course_id": "BLCT2PRE",
+    "course_title": "Pre test BLC Thematic Training 2: Stock Accuracy & Control",
+    "description": "Kerjakan pre test disini",
+    "valid_from": "01-01-2000",
+    "valid_to": "01-01-9999",
+    "status": "success"
+  },
+  {
+    "course_id": "CTSCM25",
+    "course_title": "CT SCM: Smart Route & Evaluation",
+    "description": "Insertion Training: Smart Route &amp; Evaluation",
+    "valid_from": "01-01-2000",
+    "valid_to": "01-01-9999",
+    "status": "success"
+  },
+  {
+    "course_id": "CTSCMIIPre",
+    "course_title": "CT SCM: Impact & Influence Pre Test",
+    "description": "Kerjakan pre-test disini",
+    "valid_from": "01-01-2000",
+    "valid_to": "01-01-9999",
+    "status": "success"
+  },
+  {
+    "course_id": "CTSCMII",
+    "course_title": "CT SCM: Impact & Influence",
+    "description": "Materi dan post test disini",
+    "valid_from": "01-01-2000",
+    "valid_to": "01-01-9999",
+    "status": "success"
+  },
+  {
+    "course_id": "SHE-05",
+    "course_title": "Hazard Identification",
+    "description": "Inspeksi K3 adalah kegiatan untuk memeriksa dan mendeteksi semua kondisi termasuk peralatan, proses kerja, material, lokasi kerja dan prosedur yang berpotensi menimbulkan cidera, penyakit akibat kerja ataupun pencemaran lingkungan sehingga dapat dicegah atau diminimalkan risikonya.\r\n\r\n&nbsp;\r\n\r\nBaga",
+    "valid_from": "01-01-2000",
+    "valid_to": "01-01-9999",
+    "status": "success"
+  },
+  {
+    "course_id": "SHE-06",
+    "course_title": "Basic Tanggap Darurat",
+    "description": "Keadaan darurat adalah situasi\/kondisi\/kejadian yang tidak normal terjadi tiba-tiba,\r\n\r\nmengganggu kegiatan\/organisasi\/kumunitas dan perlu penanggulangan segera.\r\n\r\nBagaimana cara penanganannya? Mari kita saksikan materi berikut\r\n\r\n&nbsp;",
+    "valid_from": "01-01-2000",
+    "valid_to": "01-01-9999",
+    "status": "success"
+  },
+  {
+    "course_id": "Next Gen5",
+    "course_title": "Modul 5 LTP Next Gen",
+    "description": "Modul 5 LTP Next Gen",
+    "valid_from": "01-01-2000",
+    "valid_to": "01-01-9999",
+    "status": "success"
+  },
+  {
+    "course_id": "LTP NEXT GEN-M5 Stud",
+    "course_title": "LTP NEXT GEN - M5 Study Case Result",
+    "description": "LTP NG-M5 Study Case Result",
+    "valid_from": "01-01-2000",
+    "valid_to": "01-01-9999",
+    "status": "success"
+  },
+  {
+    "course_id": "CT-Sales-SAC",
+    "course_title": "CT Sales SAC",
+    "description": "Silakan download file terlampir",
+    "valid_from": "01-01-2000",
+    "valid_to": "01-01-9999",
+    "status": "success"
+  },
+  {
+    "course_id": "SHE-01_BJM",
+    "course_title": "Pengelolaan B3 dan Limbah B3_TRMS-BJM",
+    "description": "Pengelolaan B3 dan Limbah B3",
+    "valid_from": "01-01-2000",
+    "valid_to": "01-01-9999",
+    "status": "success"
+  }
+]

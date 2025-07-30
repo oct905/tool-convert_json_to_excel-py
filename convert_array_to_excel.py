@@ -1,7 +1,6 @@
 import pandas as pd
 import json
 import os
-import sys
 from datetime import datetime
 from openpyxl import load_workbook
 from openpyxl.styles import Border, Side, Font, Alignment, PatternFill
@@ -12,7 +11,7 @@ from openpyxl.worksheet.table import Table, TableStyleInfo
 
 # json_filename = "report_sync_employee"  
 
-# json_filename = "report_send_course" 
+# json_filename = "report_send_course"
 # json_filename = "report_send_event" 
 # json_filename = "report_send_event_course" 
 json_filename = "report_send_event_participant" 
